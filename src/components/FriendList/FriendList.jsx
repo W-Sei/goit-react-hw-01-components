@@ -15,7 +15,7 @@ export const FriendList = ({ friends }) => (
           <img
             className={css.friend_avatar}
             src={friends.avatar}
-            alt="User avatar"
+            alt={friends.name}
             width="48"
           />
           <p className={css.friend_name}>{friends.name} </p>

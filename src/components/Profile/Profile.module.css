@@ -25,7 +25,7 @@
     background-color: rgba(128, 128, 128, 0.171);
     object-fit: cover;
     overflow: hidden;
-    border-radius: 50%;
+    border-radius: 20%;
     box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
 }
 
@@ -60,7 +60,6 @@
     align-items: center;
     justify-content: center;
     border: 1px solid rgba(11, 10, 10, 0.863);
-    /* border-radius: 20px; */
     width: calc((100% - 30px) / 2);
     height: 110px;
 }
