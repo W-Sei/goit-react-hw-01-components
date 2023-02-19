@@ -1,3 +1,5 @@
+import React from 'react';
+
 // data imports
 import user from 'infoStorage/user.json';
 import { Profile } from 'components/Profile/Profile';
